@@ -10,7 +10,7 @@ Mediamétrie Radios Locales
 
     pip install -r requirements.txt
 
-# RUN ANALYSES PROGRAM
+# RUN PROGRAM
 
     chmod +x Radio.py
     python3 Radio.py 
